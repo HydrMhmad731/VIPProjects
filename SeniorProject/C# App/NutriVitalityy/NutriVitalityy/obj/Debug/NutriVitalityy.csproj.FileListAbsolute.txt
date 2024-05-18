@@ -1,0 +1,186 @@
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe.config
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.pdb
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Properties.Resources.resources
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.exe
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.pdb
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Form1.resources
+C:\Users\USER\source\repos\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Authentication.resources
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe.config
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.pdb
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.AssemblyReference.cache
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Authentication.resources
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Form1.resources
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Properties.Resources.resources
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.GenerateResource.cache
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CoreCompileInputs.cache
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.exe
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.pdb
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountCreation.resources
+F:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe.config
+F:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe
+F:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.pdb
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.AssemblyReference.cache
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.SuggestedBindingRedirects.cache
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountCreation.resources
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Authentication.resources
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Form1.resources
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Properties.Resources.resources
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.GenerateResource.cache
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CoreCompileInputs.cache
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.exe
+F:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.pdb
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe.config
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.pdb
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\MySql.Data.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Buffers.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.IO.Pipelines.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Memory.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\ZstdSharp.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\MySql.Data.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Buffers.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.IO.Pipelines.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Memory.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.AssemblyReference.cache
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountCreation.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Authentication.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Form1.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Properties.Resources.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.GenerateResource.cache
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CoreCompileInputs.cache
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CopyComplete
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.exe
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.pdb
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Home.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountEdit.resources
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe.config
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.pdb
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\BouncyCastle.Cryptography.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Hash.xxHash.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\MySql.Data.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Buffers.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.IO.Pipelines.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Memory.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Numerics.Vectors.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\ZstdSharp.dll
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\BouncyCastle.Cryptography.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.pdb
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Hash.xxHash.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\MySql.Data.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Buffers.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.IO.Pipelines.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Memory.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Numerics.Vectors.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.AssemblyReference.cache
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountCreation.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountEdit.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Authentication.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.EditAccount.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Form1.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Home.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Properties.Resources.resources
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.GenerateResource.cache
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CoreCompileInputs.cache
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CopyComplete
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.exe
+D:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.pdb
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\BouncyCastle.Cryptography.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Hash.xxHash.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\MySql.Data.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Buffers.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.IO.Pipelines.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Memory.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Numerics.Vectors.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\ZstdSharp.dll
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\BouncyCastle.Cryptography.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.pdb
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\Google.Protobuf.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\K4os.Hash.xxHash.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\MySql.Data.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Buffers.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.IO.Pipelines.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Memory.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Numerics.Vectors.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NutriVitalityy\NutriVitalityy\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.AccountEdit.resources
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Home.resources
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.csproj.CopyComplete
+E:\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Patientss.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Patientss.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Vitals.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\MySqlBackup.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.HealthRecords.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.NutritionPlan.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Stats.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Appointments.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.NutritionInfo.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.PtNutrition.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.PtExercise.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.ExPlans.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.ExerciseInfo.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.UserAccount.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.Reports.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.PatientRegistration.resources
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.exe.manifest
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\NutriVitalityy.application
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.exe.manifest
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.application
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\USER\3D Objects\NutriVitalityy\NutriVitalityy\obj\Debug\NutriVitalityy.PatientVisits.resources
