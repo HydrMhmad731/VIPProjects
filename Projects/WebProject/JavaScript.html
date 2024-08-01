@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Investment Calculator</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="Home.html">Home</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropbtn">About</a>
+                <div class="dropdown-content">
+                    <a href="Biography.html">Biography</a>
+                    <a href="Contributions.html">Contributions</a>
+                    <a href="Quotes.html">Quotes</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropbtn">Projects</a>
+                <div class="dropdown-content">
+                    <a href="project1.html">Project 1</a>
+                    <a href="projects.html#project2">Project 2</a>
+                    <a href="projects.html#project3">Project 3</a>
+                </div>
+            </li>
+            <li><a href="Skills.html">Skills</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+            <li><a href="JavaScript.html" class="active">JavaScript</a></li> 
+        </ul>
+    </nav>
+    <div class="calculator-content">
+        <h2>Investment Calculator</h2>
+        <form id="investment-form">
+            <label for="investment-amount">Investment Amount ($):</label>
+            <input type="number" id="investment-amount" name="investment-amount" min="0" required>
+            <br><br>
+            
+            <label for="end-date">End of Investment (mm/yyyy):</label>
+            <input type="month" id="end-date" name="end-date" min="" required>
+            <br><br>
+            
+            <button type="button" onclick="calculateInvestment()">Calculate</button>
+        </form>
+        <div id="result"></div>
+    </div>
+    <footer>
+        <div class="social-icons">
+            <a href="https://www.linkedin.com/company/dablim-solu%C3%A7%C3%B5es-gr%C3%A1ficas"><img src="linked.png" alt="LinkedIn"></a>
+            <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="twitter.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com/elonmusk__.official/"><img src="insta.png" alt="Instagram"></a>
+        </div>
+        <p>&copy; 2024 Elon Musk Biography</p>
+    </footer>
+
+    <script>
+        function calculateInvestment() {
+            var amount = parseFloat(document.getElementById("investment-amount").value);
+            var endDate = new Date(document.getElementById("end-date").value);
+            var currentDate = new Date();
+            var monthsDiff = (endDate.getFullYear() - currentDate.getFullYear()) * 12 + (endDate.getMonth() - currentDate.getMonth());
+            
+            if (isNaN(amount) || amount <= 0) {
+                alert("Please enter a valid positive amount.");
+                return;
+            }
+
+            if (endDate <= currentDate) {
+                alert("Please enter an end date greater than the current date.");
+                return;
+            }
+
+            var monthlyInterestRate = 0.01; 
+            var finalValue = amount * Math.pow(1 + monthlyInterestRate, monthsDiff);
+            finalValue = Math.round(finalValue * 100) / 100; 
+            
+            document.getElementById("result").innerHTML = "<p>Final Value: $" + finalValue + "</p>";
+        }
+    </script>
+</body>
+</html>
